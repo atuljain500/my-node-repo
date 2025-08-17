@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["es2017", "dom"],
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist"           // Compiled JS will go into dist/
+  },
+  "include": ["./*.ts"],          // Include all .ts files in root
+  "exclude": ["node_modules"]
+}
