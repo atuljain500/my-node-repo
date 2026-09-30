@@ -6,3 +6,4 @@ console.log("what is your name");
 console.log("bighar");
 console.log("bye sirsa");
 console.log("hello mr atul");
+console.log("hello welcome to Australia");
